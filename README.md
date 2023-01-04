@@ -1,8 +1,13 @@
 The Apple Game App
 ==================
 
+FORKED FROM @emarock's repository. 
+https://emarock.github.io/appeople/
+
 Simple web-based personality test, ~~shamelessly copied~~ freely
-insipred by Tim Urban's "The Apple Game: How Good a Person Are You?"
+insipred by Tim Urban's "The Apple Game: How Good a Person Are You?. 
+
+
 
 It is intended for recreational use only. However, if the result is a
 GOOD-GOOD-BAD or BAD-GOOD-BAD profile, warning your closest ones and
